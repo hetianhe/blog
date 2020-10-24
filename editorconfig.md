@@ -10,6 +10,7 @@ EditorConfig是一个用于维护一致的代码风格的跨编辑器/IDE的插�
 ## 使用
 * 在项目根目录下创建.editorconfig文件 `touch .editorconfig`  
 * 安装EditorConfig插件([具体见官网](https://editorconfig.org/#download))
+* [属性说明-官方wiki](https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
 
 ## 注意
 
@@ -24,6 +25,7 @@ EditorConfig是一个用于维护一致的代码风格的跨编辑器/IDE的插�
 当打开learn_editorconfig/src/index.js时，learn_editorconfig/src/.editorconfig的优先级比learn_editorconfig/.editorconfig要高。
 
 ## 示例
+vue官方示例
 ```.editorconfig
 # https://editorconfig.org
 
